@@ -22,4 +22,4 @@ If anyone wants to give tips, a light on how to improve, I'll be happy to receiv
 
 # Result
 
-<a href="./public/video-1.mp4" alt="show" ></a>
+<img src="./public/video-1.gif" />
