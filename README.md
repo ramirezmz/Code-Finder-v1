@@ -22,4 +22,6 @@ If anyone wants to give tips, a light on how to improve, I'll be happy to receiv
 
 # Result
 
+<a href="https://code-finder-v1.vercel.app/">Click here</a> to visit the site!
+
 <img src="./public/video-1.gif" />
